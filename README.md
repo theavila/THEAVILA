@@ -1,6 +1,9 @@
 ### Hi there!
 
-I'm **Ricardo Ávila**, I'm from Brasília, **Brazil**. I have an **MSc** degree (2013) in **Telecommunications and Computer Engineering** from the Federal University of Ceará. Currently, **I'm pursuing a doctorate** in **Information Science and Technology** at Université du Québec à Chicoutimi (UQAC). There I work under the supervision of Prof. [Raphaël Khoury](https://scholar.google.com/citations?user=bskziasAAAAJ&hl=en).
+I'm **Ricardo Ávila**, I'm from Brasília, **Brazil**. I have an **MSc** degree (2013) in **Telecommunications and Computer Engineering** from the Federal University of Ceará. 
+
+Currently, **I'm pursuing a doctorate** in **Information Science and Technology** at Université du Québec à Chicoutimi (UQAC). There I work under the supervision of Prof. [Raphaël Khoury](https://scholar.google.com/citations?user=bskziasAAAAJ&hl=en).
+
 I'm an **associate researcher** in a research project in **Information Security**, in partnership with the **University of Laval** and **La Capitale Insurance and Financial Services**.
 
 
