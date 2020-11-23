@@ -21,7 +21,7 @@ I'm an **associate researcher** in a research project in **Information Security*
 I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web applications and desktop applications.
 
 
-**I invest most of my time learning data science. I'm interested in improving monitoring and developing innovative solutions that can increase information security..**
+**I invest most of my time learning data science. I'm interested in improving monitoring and developing innovative solutions that can increase information security.**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theavila&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
