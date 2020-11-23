@@ -25,12 +25,12 @@ I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web app
 
 
 <p align='center'> 
-  <a href="https://www.linkedin.com/in/theavila/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white", target="_blank"/>
+  <a href="https://www.linkedin.com/in/theavila/", target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'> 
-  <a href="https://theavila.github.io/">
+  <a href="https://theavila.github.io/", target="_blank">
     <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
   </a>&nbsp;&nbsp;
 </p>
