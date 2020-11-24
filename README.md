@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm **Ricardo Ávila**, I'm from Brasília, **Brazil**. I have an **MSc** degree (2013) in **Telecommunications and Computer Engineering** from the Federal University of Ceará. 
+I'm **Ricardo Ávila**, I'm from Brasília, **Brazil**. I have an **MSc** degree (2013) in **Telecommunications and Computer Engineering** from the Federal University of Ceará (UFC). 
 
 Currently, **I'm pursuing a doctorate** in **Information Science and Technology** at Université du Québec à Chicoutimi (UQAC). There I work under the supervision of Prof. [Raphaël Khoury](https://scholar.google.com/citations?user=bskziasAAAAJ&hl=en).
 
@@ -30,10 +30,10 @@ I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web app
 <p align='center'> 
   <a href="https://www.linkedin.com/in/theavila/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 <p align='center'> 
   <a href="https://theavila.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
