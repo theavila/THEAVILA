@@ -7,7 +7,7 @@ Currently, **I'm pursuing a doctorate** in **Information Science and Technology*
 I'm an **associate researcher** in a research project in **Information Security**, in partnership with the **University of Laval** and **La Capitale Insurance and Financial Services**.
 
 
-:triangular_flag_on_post: At the present moment, I'm learning about **imbalaced classes**, **anomaly  detection**, and **logging and log management**
+:triangular_flag_on_post: At the present moment, I'm learning about **imbalanced classes**, **anomaly  detection**, and **logging and log management**
 
 :telescope: I'm currently working with **data leak detection** using **security logs** and **machine learning** technologies in the field of information security
 
