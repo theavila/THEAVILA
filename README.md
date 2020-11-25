@@ -13,7 +13,7 @@ I'm an **associate researcher** in a research project in **Information Security*
 
 I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web applications and desktop applications.
 
-**I invest most of my time learning data science. I'm interested in improving monitoring and developing innovative solutions that can increase information security.**
+**I invest most of my time learning data science. I'm interested in improving monitoring and developing innovative solutions for a better world.**
 
 ### Buy me a coffee
 
