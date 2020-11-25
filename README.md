@@ -6,18 +6,14 @@ Currently, **I'm pursuing a doctorate** in **Information Science and Technology*
 
 I'm an **associate researcher** in a research project in **Information Security**, in partnership with the **University of Laval** and **La Capitale Insurance and Financial Services**.
 
-
-:triangular_flag_on_post: At the present moment, I'm learning about **imbalanced classes**, **anomaly  detection**, and **logging and log management**
-:telescope: I'm currently working with **data leak detection** using **security logs** and **machine learning** technologies in the field of information security
-:page_facing_up: My most recent paper: [Using Textual Pre-Processing and Text Mining to Create Semantic Links](https://doi.org/10.5281/zenodo.3300354)
-:mailbox: [Ask me](https://github.com/theavila/theavila/issues/new/choose) about **security information**, **data science**, or **machine learning**
-
+- :triangular_flag_on_post: At the present moment, I'm learning about **imbalanced classes**, **anomaly  detection**, and **logging and log management**
+- :telescope: I'm currently working with **data leak detection** using **security logs** and **machine learning** technologies in the field of information security
+- :page_facing_up: My most recent paper: [Using Textual Pre-Processing and Text Mining to Create Semantic Links](https://doi.org/10.5281/zenodo.3300354)
+- :mailbox: [Ask me](https://github.com/theavila/theavila/issues/new/choose) about **security information**, **data science**, or **machine learning**
 
 I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web applications and desktop applications.
 
-
 **I invest most of my time learning data science. I'm interested in improving monitoring and developing innovative solutions that can increase information security.**
-
 
 ### Buy me a coffee
 
