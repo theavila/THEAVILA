@@ -20,7 +20,8 @@ I also have experiences with **Python, ASP, Visual Basic, C#(.NET)** for Web app
 
 
 ### Buy me a coffee
-Liked some of my work? Buy me a coffee (or more likely a beer)
+
+Liked some of my work? Buy me a coffee (or more likely a beer).
 
 <a href="https://www.buymeacoffee.com/theavila" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
 
@@ -28,7 +29,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/theavila/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p align='center'> 
